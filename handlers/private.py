@@ -7,11 +7,11 @@ from helpers.filters import other_filters2
 
 @Client.on_message(other_filters2)
 async def start(_, message: Message):
-    await message.reply_sticker("CAADBQADRQIAAhHHQFSfHJ-IR0eN6gI")
+    await message.reply_sticker("CAADBQADkwMAAoQw2Ff0pyzi760bgwI")
     await message.reply_text(
-        f"""**- 𝙃𝙚𝙮 𝘼𝙢 {bn} 💛🐬,
+        f"""**- 𝙃𝙚𝙮 𝘼𝙢 𝘼𝙆 𝙓𝘿 𝙈𝙐𝙎𝙄𝘾 𝘽𝙊𝙏 💛🐬,
 
-- 𝙄 𝙘𝙖𝙣 𝙥𝙡𝙖𝙮 𝙢𝙪𝙨𝙞𝙘 𝙞𝙣 𝙮𝙤𝙪𝙧 𝙜𝙧𝙤𝙪𝙥'𝙨 𝙫𝙤𝙞𝙘𝙚 𝙘𝙖𝙡𝙡. 𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙙 𝙗𝙮 [𝘼𝙠](https://t.me/ALONE_BOY_XD_01) 💛🤞.
+- 𝙄 𝙘𝙖𝙣 𝙥𝙡𝙖𝙮 𝙢𝙪𝙨𝙞𝙘 𝙞𝙣 𝙮𝙤𝙪𝙧 𝙜𝙧𝙤𝙪𝙥'𝙨 𝙫𝙤𝙞𝙘𝙚 𝙘𝙖𝙡𝙡. 𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙙 𝙗𝙮 [𝘼𝙠](https://t.me/AK_XD_MUSIC) 💛🤞.
 
 𝘼𝙙𝙙 𝙢𝙚 𝙩𝙤 𝙮𝙤𝙪𝙧 𝙜𝙧𝙤𝙪𝙥 𝙖𝙣𝙙 𝙥𝙡𝙖𝙮 𝙢𝙪𝙨𝙞𝙘 𝙛𝙧𝙚𝙚𝙡𝙮 🐬💕**
         """,
